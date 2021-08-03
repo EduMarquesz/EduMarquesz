@@ -1,7 +1,7 @@
 ### Olá! eu me chamo Luis Eduardo
 
 - 🔭 Estou procurando um emprego atualmente
-- 📫 WhatsApp: 11964590696
+- 📫 Email: luiseduardo.marques.ds@gmail.com
 - 😄 Pronouns: ele/dele
 - 👨‍🎓 Estudando Back-End e Análise de Dados
 
