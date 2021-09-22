@@ -3,7 +3,7 @@
 - 🔭 Estou procurando um emprego atualmente
 - 📫 Email: luiseduardo.marques.ds@gmail.com
 - 😄 Pronouns: ele/dele
-- 👨‍🎓 Estudando Back-End e Análise de Dados
+- 👨‍🎓 Estudando desenvolvimento web
 
 
 <div>
