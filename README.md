@@ -1,7 +1,7 @@
 ### Olá! eu me chamo Luis Eduardo
 
 - 🔭 Estou procurando emprego atualmente
-- 📫 Email: luiseduardo.marques.ds@gmail.com
+- 📫 E-mail: luiseduardo.marques.ds@gmail.com
 - 😄 Pronouns: ele/dele
 
 
