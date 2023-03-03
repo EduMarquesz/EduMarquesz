@@ -1,9 +1,9 @@
 ### Olá! eu me chamo Luis Eduardo
 
 <div>
-  <a href="https://github.com/LuisEdurdoMDSilva">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LuisEdurdoMDSilva&show_icons=true&theme=cobalt&include_all_commits=True&count_private=True"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEdurdoMDSilva&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/EduMarquesz">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EduMarquesz&show_icons=true&theme=cobalt&include_all_commits=True&count_private=True"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMarquesz&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -18,7 +18,7 @@
 <div>
   <a href="https://www.instagram.com/l.eduardo.marques/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:luiseduardo.marques.ds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/luis-eduardo-1b7614217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="[https://www.linkedin.com/in/luiseduardomarquedasilva/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/LuisEdurdoMDSilva/LuisEdurdoMDSilva/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/EduMarquesz/EduMarquesz/blob/output/github-contribution-grid-snake.svg)
 </div>
