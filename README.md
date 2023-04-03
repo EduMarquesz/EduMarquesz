@@ -1,10 +1,7 @@
 ### Olá! eu me chamo Luis Eduardo
 
-<div>
-  <a href="https://github.com/EduMarquesz">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EduMarquesz&show_icons=true&theme=cobalt&include_all_commits=True&count_private=True">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMarquesz&layout=compact&langs_count=7&theme=cobalt">
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduMarquesz&count_private=true&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/EduMarquesz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduMarquesz&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&layout=compact&card_width=500)](https://github.com/EduMarquesz/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
