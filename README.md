@@ -74,7 +74,7 @@
 
 ### 💬 Vamos conectar
 
-<a href="https://linkedin.com/in/seu-perfil">
+<a href="https://www.linkedin.com/in/luiseduardomarquedasilva/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" height="35"/>
 </a>
 <a href="mailto:luiseduardo.marques.ds@gmail.com">
