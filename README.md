@@ -1,12 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Olá,%20eu%20sou%20[Seu%20Nome]&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" />
-
-</div>
-
-<div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python+🐍;Transformando+ideias+em+código;Sempre+explorando+novas+tecnologias" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Olá,%20eu%20sou%20Luis%20Eduardo&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" />
 
 </div>
 
@@ -14,9 +8,13 @@
 
 <div align="center">
 
-### 🐍 Python Developer
+### 💼 Sobre mim
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,tensorflow,pytorch,pandas,numpy&theme=dark&perline=8" />
+• Desenvolvedor com foco em **Python** para diferentes contextos e soluções  
+• Experiência com **AWS** em serviços e arquiteturas em geral  
+• Automação de processos e integração de sistemas  
+• Atuação no **setor financeiro**  
+• Código limpo, soluções escaláveis e foco em qualidade
 
 </div>
 
@@ -24,9 +22,16 @@
 
 <div align="center">
 
-### 🛠️ Outras Tecnologias
+### 🚀 Tecnologias & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,docker,git,postgres,mongodb&theme=dark&perline=8" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
@@ -72,11 +77,8 @@
 <a href="https://linkedin.com/in/seu-perfil">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" height="35"/>
 </a>
-<a href="mailto:seu-email@example.com">
+<a href="mailto:luiseduardo.marques.ds@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-</a>
-<a href="https://github.com/EduMarquesz">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
 </a>
 
 <br><br>
