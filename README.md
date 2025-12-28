@@ -12,8 +12,7 @@
 
 • Desenvolvedor com foco em **Python** para diferentes contextos e soluções  
 • Experiência com **AWS** em serviços e arquiteturas em geral  
-• Automação de processos e integração de sistemas  
-• Atuação no **setor financeiro**  
+• Automação de processos e integração de sistemas
 • Código limpo, soluções escaláveis e foco em qualidade
 
 </div>
